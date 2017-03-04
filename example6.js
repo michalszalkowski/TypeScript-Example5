@@ -1,0 +1,9 @@
+var age = 17;
+age = 18;
+// age = '19'; <- error
+var age2 = 17;
+age2 = 18;
+// age2 = '19'; <- error
+var age3 = 17;
+age3 = 18;
+age3 = '19';
